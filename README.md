@@ -1,4 +1,4 @@
-# theedge
+# The Edge
 
 When you feel like living life on the edge, use this script.
 
